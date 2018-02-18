@@ -1,0 +1,1585 @@
+<?xml version="1.0"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd">
+<!-- jEdit editor properties - don't delete
+:mode=xml:tabSize=2:indentSize=2:noTabs=true:
+:folding=indent:collapseFolds=0:wrap=soft:maxLineLen=120:
+-->
+<book>
+    <title>Blockquote List</title>
+    <preface>
+        <title>Foreword</title>
+        <para>TBD</para>
+    </preface>
+    <chapter>
+        <title>title</title>
+        <blockquote>
+            <attribution>F.B. Jueneman</attribution>
+            <para>If someone does something stupid once, it's just plain dumb.</para>
+            <para>If it's done twice, there's a learning problem.</para>
+            <para>If it's done frequently, then it's a philosophy.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Benjamin Franklin</attribution>
+            <para>They that give up essential liberty to obtain a little temporary safety deserve neither.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>Being intelligent is not a felony, but most societies evaluate it as at least a misdemeanor.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>If it's sinful, it's more fun.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Jubal Harshaw</attribution>
+            <para>Has it ever occurred to you that God might be a committee?</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>Anything you get free costs more than worth - but you don't find out until later.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Thomas Jefferson</attribution>
+            <para>I have sworn upon the altar of God eternal hostility against every form of tyranny over the mind of man.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>If you pray hard enough, water will run uphill. How hard? Why, hard enough to make water run uphill, of course.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>Being right too soon is socially unacceptable.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Door of research lab developing guided missile systems</attribution>
+            <para>Man is not as good as a little black box for certain, specific things. However, he is flexible and much more reliable. He is easily maintained and can be manufactured by relatively unskilled labor.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Herman Melville, Moby Dick</attribution>
+            <para>Beware thyself, old man.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Albert Einstein</attribution>
+            <para>Imagination is more important than intelligence.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Talking Heads</attribution>
+            <para>Violence on television only affects children whose parents act like television personalities.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Albert Einstein</attribution>
+            <para>He who marches to music in rank and file has already earned my contempt. He has been given a large brain by mistake, since for him the spinal cord would fully suffice. This disgrace to civilization should be done away with at once. Heroism at command, senseless brutality, deplorable love-of-country stance, how violently I hate all this, how despicable and ignoble war is; I would rather be torn to shreds than be a part of so base an action! It is my conviction that killing under the cloak of war is nothing but an act of murder.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Talking Heads</attribution>
+            <para>When everything is worth money, money is worth nothing.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Bible, Ecclesiastes, 3:1-2</attribution>
+            <para>To everything there is a season, and a time for every purpose under heaven.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>The one that claims that it cannot be done should not interrupt the one who is doing it.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Bill Cosby</attribution>
+            <para>Man invented an automobile . . . and called it FANTASTIC!</para>
+            <para>God did a tree . . . said good.</para>
+            <para>Man did a refrigerator . . . said AMAZING!</para>
+            <para>God did a rabbit . . . said good.</para>
+            <para>The wheels fell off the car and the refrigerator broke down . . . The tree's still standing and the rabbit's still running.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From movie, Other People's Money</attribution>
+            <para>Lawyers are like nuclear warheads; their side has theirs so I have mine. If either side uses them, they fuck everything up.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>With a single order from the commander in chief, the longest continuous alert in the history of warfare was called off last week. For 42 years - the entire lifetime of two-thirds of the U.S. population - the bombers of the Strategic Air Command have been on either airborne or "strip" alert: armed and fueled, with pilots standing by, so the final act in the history of human idiocy could take place with the efficiency of a pit crew changing a tire.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Allan McLeod Gray</attribution>
+            <para>Whatever you do, you'll regret it.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Mao Tse-Tung</attribution>
+            <para>In waking a tiger, use a long stick.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Heinrich Heine</attribution>
+            <para>One should forgive one's enemies, but not before they are hanged.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>H. H. Munro</attribution>
+            <para>He is one of those people who would be enormously improved by death.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>But magic has a way of lying low, like a rake in the grass.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Bruce Ames, Professor of biochemistry and molecular biology at the University of California, Berkeley.</attribution>
+            <para>There are more "known carcinogens" in your cup of morning coffee than in all the pesticide residue on food that one could comfortably eat in one year. And only 26 of the over 1,000 chemicals in coffee have been tested.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>Sense is never "common."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>You have to have a feeling for what makes the frog jump.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>Humans never learn from the experience of others. They learn - when they do, which isn't often - on their own, the hard way.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>Belief gets in the way of learning.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>There is nothing so unlikely as a baby.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>Most people won't learn even by experience. Never underestimate the power of human stupidity.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>Never argue with the weather.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>Always cut the cards.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>No storyteller has ever been able to dream up anything as fantastically unlikely as what really does happen in this mad Universe.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>Progress doesn't come from early risers. Progress is made by lazy men looking for an easier way to do things.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>There are circumstances in which another man's opinion is not only better than your own, but incomparably better.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>A capsule of human "progress": by the time you learn how to do it, it's too late. (But often it turns out that what you have learned applies to some new problem. Or we would still be swinging from trees.)</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>Work is not an end in itself; there must always be time for love.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>I've learned that free tail is often the most expensive sort.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>Never do today what you can put off till tomorrow if tomorrow might improve the odds.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert A. Heinlein</attribution>
+            <para>Most people can't think, most of the remainder won't think, the small fraction who do think mostly can't do it very well. The extremely tiny fraction who think regularly, accurately, creatively, and without self-delusion - in the long run these are the only people who count.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>author of The Bell Curve</attribution>
+            <para>If what you say is true, there is no irresponsible time to publish it.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>Learn to see past your paradigms.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>ship captain bluffing to a town in order to get it to surrender</attribution>
+            <para>I will be forced to take further action.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett, The Color Of Magic</attribution>
+            <para>Let's just say that if complete and utter chaos were lightning, he'd be the sort to stand on a hilltop in a thunderstorm wearing wet copper armour and shouting "All gods are bastards!"</para>
+        </blockquote>
+        <blockquote>
+            <attribution>C. S. Lewis</attribution>
+            <para>The future is something everyone reaches at the rate of 60 minutes an hour, whatever he does, whoever he is.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, The Light Fantastic</attribution>
+            <para>Rincewind had been generally reckoned by his tutors to be a natural wizard in the same way that fish are natural mountaineers.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, The Light Fantastic</attribution>
+            <para>The thought had crossed his mind, only very fast and looking nervously from side to side in case it got knocked over.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Equal Rites</attribution>
+            <para>Despite rumour, Death isn't cruel...merely terribly, terribly good at his job.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>He sighed again. People were always trying this sort of thing. On the other hand, it was quite interesting to watch, and at least this was a bit more original than the usual symbolic chess game, which Death always dreaded because he could never remember how the knight was supposed to move.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Albert Schweitzer</attribution>
+            <para>Man is a clever animal who behaves like an imbecile.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Beth</attribution>
+            <para>If you always do what you always did, you'll always get what you always got.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Sourcery</attribution>
+            <para>He rather enjoyed times like this. They convinced him that he wasn't mad because, if he was mad, that left no word at all to describe some of the people he met.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Sourcery</attribution>
+            <para>After that one thing sort of led to another and pretty soon everyone was trying to get something - either away, out or even.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Sourcery</attribution>
+            <para>Nijel was one of those people who, if you say "don't look now", would immediately swivel his head like an owl on a turntable. These are the same people who, when you point out, say, an unusual crocus just beside them, turn round aimlessly and put their foot down with a sad little squashy noise. If they were lost in a trackless desert you could find them by putting, somewhere on the sand, something small and fragile like a valuable old mug that had been in your family for generations, and then hurrying back as soon as you heard the crash.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett, Wyrd Sisters</attribution>
+            <para>Sometimes you have to be kind to be cruel.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Wyrd Sisters</attribution>
+            <para>Destiny was funny stuff. You couldn't trust it. Often you couldn't even see it. Just when you knew you had it cornered, it turned out to be something else-coincidence, maybe, or providence. You barred the door against it, and it was standing beside you. Then just when you thought you had it nailed down it walked away with the hammer.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Ray Bradbury</attribution>
+            <para>For it is a mad world and it will get madder if we allow the minorities, be they dwarf or giant, orangutan or dolphin, nuclear-head or water-conservationalist, pro-computerologist or Neo-Luddite, simpleton or sage, to interfere with aesthetics. The real world is a playing ground for each and every group, to make or unmake laws. But the tip of the nose of my book or stories or poems is where their rights end and my territorial imperatives begin, run and rule. If Mormons do not like my plays, let them write their own. If the Irish hate my Dublin stories, let them rent typewriters. If teachers and grammar school editors find my jawbreaker sentences shatter their mushmilk teeth, let them eat stale cake dunked in weak tea of their own ungodly manufacture. If the Chicano intellectuals wish to re-cut my "Wonderful Ice Cream Suit" so it shapes "Zoot," may the belt unravel and the pants fall.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>excerpted from Fahrenheit 451, which was written in 1953</attribution>
+            <para>Picture it. Nineteenth century man with his horses, dogs, carts...slow motion.</para>
+            <para>
+            </para>
+            <para>Then, in the twentieth century, speed up your camera! Books cut shorter. Condensations. Digests. Tabloids. Everything boils down to the gag, snap ending.Classics cut to fifteen-minute shows, then cut again to fill a two-minute book column. Many were those whose sole knowledge of Hamlet was a one-page digest in a book that claimed: "now at last you can read all the classics; keep up with your neighbors!"</para>
+            <para>
+            </para>
+            <para>Do you see? Out of the nursery into college and back to the nursery; there's your intellectual pattern for the past two centuries or more.</para>
+            <para>
+            </para>
+            <para>Politics? One column, two sentences, a headline! Then, in midair, all vanishes! Whirl a man's mind around about so fast under the pumping hands of publishers, exploiters, and broadcasters that the centrifuge flings off all unnecessary, time-wasting thought!</para>
+            <para>
+            </para>
+            <para>School is shortened, discipline relaxed, philosophies, histories, languages dropped, English and spelling gradually neglected, finally almost completely ignored.</para>
+            <para>
+            </para>
+            <para>Life is immediate, the job counts, pleasure lies all about after work. Why learn anything save pressing buttons, pulling switches, fitting nuts and bolts?</para>
+            <para>
+            </para>
+            <para>The zipper replaces the button and man lacks just that much more time to think while dressing at dawn, a philosophical hour, and thus a melancholy hour. Life becomes one big pratfall; everything boom, boff, and wow!</para>
+            <para>
+            </para>
+            <para>More cartoons in books. More pictures. The mind drinks less and less. Impatience. Highways full of crowds going somewhere, somewhere, somewhere, nowhere.</para>
+            <para>
+            </para>
+            <para>Now let's take up the minorities in our civilization, shall we? Bigger the populations, the more minorities. Don't step on the toes of the dog lovers, the cat lovers, doctors, lawyers, merchants, chiefs, Mormons, Baptists, Unitarians, second-generation Chinese, Swedes, Italians, Germans, Texans, Brooklynites, Irishmen, people from Oregon or Mexico. The people in this book, this play, this TV serial are not meant to represent any actual painters, cartographers, mechanics anywhere. The bigger your market, the less you handle controversy, remember that! All the minor, minor, minorities with their navels to be kept clean. Authors, full of evil thoughts, lock up your typewriters. They did. Magazines became a nice blend of vanilla tapioca.Books, so those damned snobbish critics said, were dishwater. No wonder books stopped selling, the critics said. But the public, knowing what it wanted, spinning happily, let the comic books survive. And the sex magazines, of course. There you have it. It didn't come form the Government down. There was no dictum, no declaration, no censorship, to start with, no! Technology, mass exploitation, and minority pressure carried the trick, thank God. Today, thanks to them, you can stay happy all the time, you are allowed to read comics, the good old confessions, or trade journals.</para>
+            <para>
+            </para>
+            <para>With school turning out more runners, jumpers, racers, tinkerers, grabbers, snatchers, fliers, and swimmers instead of examiners, critics, knowers, and imaginative creators, the word "intellectual" became the swear word it deserved to be. You always dread the unfamiliar. Surely you remember the boy in your own school class who was exceptionally "bright," did most of the reciting and answering while the others sat like so many leaden idols, hating him. And wasn't it this bright boy you selected for beatings and tortures after hours? Of course it was. We must all be alike. Not everyone born free and equal, as the Constitution says, but everyone made equal. Each man the image of every other; then all are happy, for there are no mountains to make them cower, to judge themselves against. So! A book is a loaded gun in the house next door. Burn it. Take the shot from the weapon. Who knows who might be the target of the well-read man? Me? I won't stomach him for a minute.</para>
+            <para>
+            </para>
+            <para>You must understand that our civilization is so vast that we can't have our minorities upset and stirred. Ask yourself, what do we want in this country, above all? People want to be happy, isn't that right? haven't you heard it all your life? I want to be happy, people say. Well, aren't they? Don't we keep them moving, don't we give them fun? That's all we live for, isn't it? For pleasure, for titillation? And you must admit our culture provides plenty of these.</para>
+            <para>
+            </para>
+            <para>If you don't want a man unhappy politically, don't give him two sides to a question to worry him; give him one. Better yet, give him none. Let him forget there is such a thing as war. If the government is inefficient, top heavy, and tax-mad, better it be all those than that people worry over it. Peace. Give the people contests they can win by remembering the words to more popular songs or the names of state capitals or how much corn Iowa grew last year. Cram them so full of noncombustible data, chock them so damned full of 'facts' they feel stuffed, but absolutely 'brilliant' with information. Then they'll feel they're thinking, they'll get the sense of motion without moving. And they'll be happy, because facts of that sort don't change. Don't give them any slippery stuff like philosophy or sociology to tie things up with. That way lies melancholy. Any man who can take a TV apart and put it back together again is happier than any man who tries to slide-rule, measure, and equate the universe, which just won't be measured or equated without making a man feel bestial and lonely. So bring on your clubs and parties, your acrobats and magicians, your daredevils, jet cats, motorcycle helicopters, your sex and heroin, more of everything to do with automatic reflex.</para>
+            <para>
+            </para>
+            <para>We stand against the small tide of those who want to make everyone unhappy with conflicting theory and thought. We have our fingers in the dike. We depend on you. I don't think you realize how important you are, we are, to our happy world as it stands now.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Pyramids</attribution>
+            <para>Broadly, therefore, the three even now lurching across the deserted planks of the Brass Bridge were dead drunk assassins, and the men behind them were bent on inserting the significant comma.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Pyramids</attribution>
+            <para>When you die the first thing you lose is your life. The next thing is your illusions.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Pyramids</attribution>
+            <para>A few stars had been let out early. Perhaps there is life somewhere else. On the stars, maybe. If it's true that there are billions of universes stacked alongside one another, the thickness of a thought apart, then there must be people elsewhere.</para>
+            <para>But wherever they are, no matter how mightily they try, no matter how magnificent the effort, they surely can't manage to be as god awfully stupid as us. I mean, we work at it. We were given a spark of it to start with, but over hundreds of thousands of years we've really improved on it.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Pyramids</attribution>
+            <para>We're really good at it, Teppic thought. Mere animals couldn't possibly manage to act like this. You need a human being to be really stupid.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Pyramids</attribution>
+            <para>There are few things that so shake belief as seeing, clearly and precisely, the object of that belief. Seeing, contrary to popular wisdom, isn't believing. It's where belief stops, because it isn't needed anymore.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Pyramids</attribution>
+            <para>It is now known to science that there are many more dimensions than the classic four. Scientists say that these don't normally impinge on the world because the extra dimensions are very small and curve in on themselves, and that since reality is fractal most of it is tucked inside itself. This means either that the universe is more full of wonders than we can hope to understand, or more probably, that scientists make things up as they go along.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Pyramids</attribution>
+            <para>It squatted in the middle distance as real as the pin that nails a butterfly to a board.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Pyramids</attribution>
+            <para>The gods of the Disc have always been fascinated by humanity's incredible ability to say exactly the wrong thing. They're not talking here of such easy errors as, "It's perfectly safe" or, "The ones that growl a lot don't bite", but of simple little sentences which are injected into difficult situations with the same general effect as a steel bar dropped into a 3,000 rpm, 660 megawatt steam turbine.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>It was not the silence and darkness of conclusion, but of pause, like the moment of equilibrium when a thrown ball runs out of acceleration but has yet to have gravity drawn to its attention and, for a brief moment, thinks that the worst is over.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Pyramids</attribution>
+            <para>Dibbler's expression was the expression worn by something long and sleek and white as it swims over the reef and into the warm shallow waters of the kiddie's paddling area.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Moving Pictures</attribution>
+            <para>In retrospect, he was always a little unclear about those next few moments. That's the way it goes. The moments that change your life are the ones that happen suddenly, like the one where you die.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Moving Pictures</attribution>
+            <para>You know what the greatest tragedy is in the whole world? It's all the people who never find out what it is they really want to do or what it is they're really good at. It's all the sons who become blacksmiths because their fathers were blacksmiths. It's all the people who could be really fantastic flute players who grow old and die without ever seeing a musical instrument, so they become bad ploughmen instead. It's all the people with talents who never even find out. Maybe they are never even born in a time when it's even possible to find out.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Moving Pictures</attribution>
+            <para>Inside every old person is a young person wondering what happened.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Reaper Man</attribution>
+            <para>Most species do their own evolving, making it up as they go along, which is the way Nature intended. And this is all very natural and organic and in tune with mysterious cycles of the cosmos, which believes that there's nothing like millions of years of really frustrating trial and error to give a species moral fibre and, in some cases, backbone.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett, Reaper Man</attribution>
+            <para>Everything that exists, yearns to live. That's what the cycle of life is all about. That's the engine that drives the great biological pumps of evolution. Everything tries to inch its way up the tree, clawing or tentacling or sliming its way up to the next niche until it gets to the very top - which, on the whole, never seems to have been worth all that effort.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>The other guild members tried to be nice to him, in the same way that people try to be kind to other people who are standing on the ledges of very high buildings.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>The thing about boiling brandy is that it doesn't boil for long.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Windle Poons</attribution>
+            <para>They thought they were doing it for the best. People often do. It's amazing, the things that seem a good idea at the time.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>Occasionally people would climb the mountain and add a stone or two to the cairn at the top, if only to prove that there is nothing really damn stupid that humans won't do.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>Light thinks it travels faster than anything else, but it is wrong. No matter how fast light travels it finds the darkness has always got there first and is waiting for it.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Murphy's eighth corollary</attribution>
+            <para>It is impossible to make anything foolproof because fools are so ingenious.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>When it is not necessary to make a decision, it is necessary not to make a decision.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>Changing things is central to leadership, and changing them before anyone else does is creativity.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Murphy's ninth corollary</attribution>
+            <para>Nature always sides with the hidden flaw.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>The sum of intelligence on the planet is a constant; the population is growing.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>Experience is something you don't get until just after you need it.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>People and nations will act rationally when all other possibilities have been exhausted.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>No experiment is ever a complete failure - it can always serve as a negative example.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>Asking dumb questions is easier than correcting dumb mistakes.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>There is nothing wrong with sex on television, just as long as you don't fall off.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>The efficiency of a committee meeting is inversely proportional to the number of participants and the time spent on deliberations.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>If enough data is collected, anything may be proven by statistical methods.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>Ninety percent of everything is crud.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>The eleventh commandment</attribution>
+            <para>Thou shalt not committee.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>The best laid plans of mice and men are usually about equal.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>Variables won't; constants aren't.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Law of unending cost</attribution>
+            <para>The amount of funding required to complete a public project equals the amount spent to date.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>No matter how well you perform your job, a superior will seek to modify the results.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>The means justify the means. The approach to a problem is more important than the solution.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Rule of superior inferiority.</attribution>
+            <para>Don't let your superiors know you're better than they are.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>There is nothing so small that it can't be blown out of proportion.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>If it jams force it. If it breaks, it needed replacing anyway.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>The length of a minute depends on which side of the bathroom door you are on.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>The most efficient way to dispose of toxic waste is to reclassify it as non-toxic.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>Doing it the hard way is always easier.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>If everything is coming your way, you're in the wrong lane.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>The first myth of management is that it exists.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>Inside every small problem is a larger problem struggling to get out.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>People will occasionally stumble over the truth, but most of the time they will pick themselves up and continue on.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>If you cannot convince them, confuse them.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>Any action for which there is no logical explanation will be deemed, "company policy."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>She was not someone to use extreme language, but it was possible to be sure that when she deployed a mild term like, "a bee in her bonnet" she was using it to describe someone whom she believed to be several miles over the madness horizon and accelerating.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>People are riddled by Doubt. It is the engine that drives them through their lives. It is the elastic band in the little model aeroplane of their soul, and they spend their time winding it up until it knots.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Greebo</attribution>
+            <para>Vampires have risen from the dead, the grave, and the crypt, but have never managed it from a cat.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>The phase "card sharp" had never reached the Ramtops, where people were friendly and direct and, should they encounter a professional cheat, tended to nail his hand to the table in an easy and outgoing manner without asking him what he called himself.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Granny Weatherwax</attribution>
+            <para>No point in imagining anything, things are bad enough as they are.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>That sort of comment at that sort of time was like the tiny sliding of snow off the top branch of a tall tree high in the mountains during the thaw season.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Granny Weatherwax</attribution>
+            <para>If you want to amount to anything, you've got to learn three things. What's real, what's not real, and what's the difference-</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Nanny Ogg</attribution>
+            <para>She was about to say, "What? You mean not compliant and self-effacing like what you is, Esme?" You didn't juggle matches in a fireworks factory.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Magrat</attribution>
+            <para>The good are innocent and create justice. The bad are guilty, which is why they invent mercy.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Granny Weatherwax</attribution>
+            <para>You can't go around building a better world for people. Only people can build a better world for people. Otherwise it's just a cage.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Granny Weatherwax</attribution>
+            <para>Progress just means bad things happen faster.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>Stories want to end. They don't care what happens next . . .</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>The trouble with little furry animals in a corner is that, just occasionally, one of them's a mongoose.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Greebo</attribution>
+            <para>Humanity's a nice place to visit, but you wouldn't want to live there.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Granny Weatherwax</attribution>
+            <para>Good and bad is tricky. I ain't too certain about where people stand. P'raps what matters is which way you face.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Pearl S. Buck</attribution>
+            <para>The young do not know enough to be prudent, and therefore they attempt the impossible - and achieve it, generation after generation.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>An Wang</attribution>
+            <para>Success if more a function of consistent common sense than it is of genius</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Kenneth Auchincloss</attribution>
+            <para>It is one thing to learn about the past; it is another to wallow in it.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Harper Lee</attribution>
+            <para>You never really understand a person until you consider things from his point of view.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Fyodor Dostoyevsky</attribution>
+            <para>Man only likes to count his troubles, but he does not count his joys.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>George Pataki</attribution>
+            <para>When government accepts responsibility for people, then people no longer take responsibility for themselves.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Robert C. Savage</attribution>
+            <para>You can measure a man by the opposition it takes to discourage him.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Linda Ellerbee</attribution>
+            <para>In the coldest February, as in every other month in every other year, the best thing to hold on to in this world is each other.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Dwayne Laws</attribution>
+            <para>The pioneers cleared the forests from Jamestown to the Mississippi with fewer tools than are stored in the typical modern garage.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>William Arthur Ward</attribution>
+            <para>Wise are those who learn that the bottom line doesn't always have to be their top priority.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>African proverb</attribution>
+            <para>Smooth seas do not make skillful sailors.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Benjamin Whichcote</attribution>
+            <para>None are so empty as those who are full of themselves.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>Much human ingenuity has gone into finding the ultimate Before. The current state of human knowledge can be summarized thus: In the beginning, there was nothing, which exploded.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>William Scrope is going to die in a couple of minutes. It has to be said that he shouldn't have been hunting deer out of season, and especially not the fine stag he was tracking, and certainly not a fine stag of the Ramtop Red species, which is officially endangered although not as endangered, right now, as William Scrope.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>Perdita: "Um, it's a magic circle. Um, it's to keep bad influences away. . . "</para>
+            <para>
+            </para>
+            <para>Granny Weatherwax leaned forward slightly, "Tell me dear, do you think it's working?"</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>People think that they live life as a moving dot traveling from the Past to the Future, with memory streaming out behind them like some kind of mental cometary tail. But memory spreads out in front as well as behind. It's just that most humans aren't good at dealing with it, and so it arrives as premonitions, forebodings, intuitions, and hunches. Witches are good at it, and to suddenly find a blank where these tendrils of the future should be has much the same effect on a witch as emerging from a cloud bank and seeing a team of Sherpas looking down on him does on an airline pilot.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>Shoot the dictator and prevent the war? But the dictator is merely the tip of the whole festering boil of social pus from which dictators emerge; shoot one, and there'll be another one along in a minute. Shoot him too? Why not shoot everyone and invade Poland? In fifty years', thirty years', ten years' time, the world will be very nearly back on its old course. History always has a great weight of inertia.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Granny Weatherwax</attribution>
+            <para>Heartless it may be, but headless it ain't. I've never claimed to be nice, just to be sensible.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>The thing about words is that meanings can twist just like a snake, and if you want to find snakes, look for them behind words that have changed their meaning.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Granny Weatherwax</attribution>
+            <para>Personal's not the same as important. People just think it is.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>In her head were the faint, insistent thoughts of a thousand Esme Weatherwaxes.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>If a dwarf wanted you dead, they'd simply cut you in half with an axe first chance they got. But that was because dwarfs were a lot nicer than elves.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>Casanunda: "There's such a thing as style. There's such a thing as subtlety. You don't just shout: 'I've got a great big tonker!'"</para>
+            <para>Nanny Ogg: "That's a dwarf word, is it?"</para>
+            <para>Casanunda: "Yes"</para>
+            <para>Nanny Ogg: "It's a good word."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Granny Weatherwax</attribution>
+            <para>So I had to learn. All my life. The hard way. And the hard way's pretty hard, but not so hard as the easy way.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Granny Weatherwax</attribution>
+            <para>What don't die, can't live. What don't live, can't change. What don't change, can't learn.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Granny Weatherwax</attribution>
+            <para>The price for being able to shoe anything, anything that anyone brings you . . . is having to shoe anything that anyone brings you. The price for being the best is always . . . having to be the best. And you pays it, same as me.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Granny Weatherwax</attribution>
+            <para>Animals can't murder. Only us superior races can murder. That's one of the things that sets us apart.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Granny Weatherwax</attribution>
+            <para>I try to be good at anything I do.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Astfgl, Demon King</attribution>
+            <para>You don't think of the Big Picture. I mean, look at the Tezumen. Gloomy, unimaginative, obsessive . . . by now they could have invented a whole bureaucracy and taxation system that could have turned the minds of the continent to slag. Instead of which, they're just a bunch of second-rate axe-murders. What a waste.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>The Luggage had a straightforward way of dealing with things between it and its intended destination: it ignored them.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>Time is a drug. Too much of it kills you.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>And, as is generally the case around the time a prophet is expected, the Church of the Great God Om redoubled its efforts to be holy. This was very much like the bustle you get in any large concern when the auditors are expected, but tended towards taking people suspected of being less holy and putting them to death in a hundred ingenious ways. There's a tendency to declare that there is more backsliding around than in the national toboggan championships, that heresy must be torn out root and branch, and even arm and leg and eye and tongue, and that it's time to wipe the slate clean. Blood is generally considered very efficient for this purpose.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>Because what gods need is belief, and what humans want is gods.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>They weren't that important. They were merely at the top. The people who really run organizations are usually found several levels down, where it's still possible to get things done.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>. . . and Bishop Drunah, secretary to the Congress of Iams. People might not think that was much of a position of power, but then they'd never been minutes secretary to a meeting of slightly deaf old men.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Fri'it</attribution>
+            <para>It wouldn't make a lot of difference, evidence never did once you were in the deep levels where accusation had the status of proof, but at least it might leave one or two inquisitors feeling that they might just have been wrong.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Fri'it</attribution>
+            <para>Sometimes there are very big waves. Nothing can stop them. But if you ride them, you do not drown. This is something I learned.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>In the rain forests of Brutha's subconscious the butterfly of doubt emerged and flapped an experimental wing, all aware of what chaos theory has to say about this sort of thing.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Deacon Vorbis</attribution>
+            <para>Guilt was the grease in which the wheels of authority turned.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>It is a popular fact that 9/10th of the brain is not used and, like most popular facts, it is wrong. It is used. And one of its functions is to make the miraculous seem ordinary and turn the unusual into the usual. Because if this were not the case, then human beings, faced with the daily wondrousness of everything, would go around wearing big stupid grins.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>Gods don't like people not doing much work. People who aren't busy all the time might start to think. Part of the brain exists to stop this happening. It is very efficient.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>It was about what happened when you died . . . the journey of your soul. You must walk the desert all alone with your beliefs.</para>
+            <para>Brutha: "But people are more important than animals."</para>
+            <para>Om: "This is a point of view often expressed by humans."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Om, from Small Gods</attribution>
+            <para>Winners never talk about glorious victories. That's because they're the ones who see what the battlefield look like afterward. It's only the losers who have glorious victories.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From Small Gods</attribution>
+            <para>Vorbis: "Slave is an Ephebian word. In Om, we have no word for slave."</para>
+            <para>Tyrant: "So I understand, I imagine that fish have no word for water."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Didactylos</attribution>
+            <para>Life in this world is, as it were, a sojourn in a cave. What can we know of reality? For all we see of the true nature of existence is, shall we say, no more than bewildering and amusing shadows cast upon the inner wall of the cave by the unseen blinding light of absolute truth, from which we may or may not deduce some glimmer of veracity, and we as troglodyte seekers of wisdom can only lift our voices to the unseen and say, humbly, 'Go on, do Deformed Rabbit . . . it's my favorite.'"</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>Their listening was like a huge pit waiting for his words to fill it. The trouble was that he was talking philosophy, but they were listening in gibberish.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Brutha</attribution>
+            <para>Men should die for lies. But the truth is too precious to die for.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Brutha</attribution>
+            <para>Ten thousand won't be sufficient. One might be enough.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>Death: "YOU HAVE PERHAPS HEARD THE PHRASE THAT HELL IS OTHER PEOPLE?"</para>
+            <para>Vorbis: "Yes. Yes, of course."</para>
+            <para>Death: "IN TIME, YOU WILL LEARN THAT IT IS WRONG."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>As St. Ungulant preached to any who would listen, there were plus points to being a madman. People hesitated to stop you, in case it made things worse.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Brutha</attribution>
+            <para>Everything happens because thing have happened before. Stupid.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>There the gods of the Discworld live. At least, any god who is anybody. And it is strange that, although it takes years of effort and scheming for a god to get there, once there they never seem to do a lot apart from drink too much and indulge in a little mild corruption. Many systems of government follow the same broad lines.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Om from Small Gods</attribution>
+            <para>I. This Is Not a Game.</para>
+            <para>II. Here and Now, You Are Alive.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>Brutha: "But there's still such a lot to be done..."</para>
+            <para>Death: YES. THERE ALWAYS IS.</para>
+            <para>Brutha bend to help Vorbis up.</para>
+            <para>Death: HE WAS A MURDERER. AND A CREATOR OF MURDERERS. A TORTURER. WITHOUT PASSION. CRUEL. CALLOUS. COMPASSIONLESS.</para>
+            <para>Brutha: "Yes. I know. He's Vorbis."</para>
+            <para>He sighed.</para>
+            <para>"But I'm me."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Jaron Lanier</attribution>
+            <para>It can be comical when politicians try to control something they do not understand.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>Personal Ad in Newspaper: "Are you a coward?"</para>
+            <para>Oscar: Well, yes, certainly. If possible. If allowed a free choice.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Oscar Gordon</attribution>
+            <para>There is no security in this world and only damn fools and mice thought there ought to be.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>Oscar: "Natural law never takes a holiday. The invariability of natural law is the cornerstone of science."</para>
+            <para>Star: "So much the worse for science."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Star</attribution>
+            <para>An insult is like a drink; it affects one only if accepted.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Star</attribution>
+            <para>Sin is cruelty and injustice, all else is peccadillo. Sin is wronging another person.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Oscar &amp; Star</attribution>
+            <para>There are things which cannot be taught in ten easy lessons, nor popularized for the masses; they take years of skull sweat. The world is what it is-and doesn't forgive ignorance.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Oscar</attribution>
+            <para>He smiled at his own wit. The old bastard always thought he was a wit. He was half right.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Oscar</attribution>
+            <para>King Midas lost interest in his piggy bank.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Rufo</attribution>
+            <para>Democracy can't work. Mathematicians, peasants, and animals, that's all there is-so no democracy, a theory based on the assumption that mathematicians and peasants are equal, can never work. Wisdom is not additive; its maximum is that of the wisest man in a given group.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Rufo</attribution>
+            <para>But a democratic form of government is okay, as long as it doesn't work. Any social organization does well enough if it isn't rigid. The framework doesn't matter as long as there is enough looseness to permit that one man in a multitude to display his genius.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Rufo</attribution>
+            <para>Scoundrels are predictable, but you're a man of honor and that frightens me.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>the Beauracracy</attribution>
+            <para>We don't want it done a better way. We want it done our way.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>You could say to the universe this is not fair. And the universe would say: Oh, isn't it? Sorry.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>Susan: "They're dead bodies!"</para>
+            <para>The raven: "Right!"</para>
+            <para>Susan: "What, are you eating?"</para>
+            <para>Raven: "It's all right, there's enough for everyone."</para>
+            <para>Susan: "That's disgusting!"</para>
+            <para>Raven: "I didn't kill 'em."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>They looked at one another in incomprehension, two minds driving the wrong way up a narrow street and waiting for the other man to reverse first.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>No one who knew anything about knives ever used the famous over arm stabbing motion so beloved of illustrators. It was amateurish and inefficient. A professional would strike upward; the way to a man's heart is through his stomach.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>An hourglass, glowing faintly blue, was suddenly thrust in front of his eyes. LORD ROBERT SELACHII? said a voice by his ear, THIS IS YOUR LIFE.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>T. Pratchett</attribution>
+            <para>The Patrician was a pragmatist. He never tried to fix things that worked. Things that didn't work, however, got broken.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>excerpted from Red Mars , Kim Stanley Robinson</attribution>
+            <para>Marina and Vlad were particularly interesting on this topic, as they had worked out a system of equations for what they called "eco-economics." "The basic equation is simple, efficiency merely equals the calories you put out, divided by the calories you take in, times 100% to put it in the form of a percentage. In the classic sense of passing along calories to one's predator, ten was average, and twenty percent doing really well. Most predators at the top of the food chain did more like five percent. This is why tigers have ranges of hundreds of square miles, not because they're so tough, but because it's not worth the effort. The problem is in assigning certain calorie-equivalent values to all kinds of activities, and go on from there.</para>
+            <para>
+            </para>
+            <para>Everyone should make a living, so to speak, based on a calculation of their real contribution to the human ecology."</para>
+            <para>
+            </para>
+            <para>"But that's already true. How is that different from the economics that already exists?"</para>
+            <para>
+            </para>
+            <para>". . . there's all kinds of phantom work! Unreal values assigned to most of the jobs on Earth! There are whole categories of parasitical jobs that add nothing to the system by an ecologic accounting. Advertising, stock brokerage, the whole system of making money only from the manipulation of money - that is not only wasteful but corrupting, as all meaningful money values get distorted in such manipulation."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Bryce Courtenay</attribution>
+            <para>Words are like diamonds. Polish them too much, and all you get are pebbles.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Henry Ford</attribution>
+            <para>Thinking is the hardest work there is, which is probably the reason so few engage in it.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Charles Krauthammer in Time</attribution>
+            <para>Middleness is the very enemy of the bold.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Spanish proverb</attribution>
+            <para>More things grow in the garden than the gardener sows.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Harold Nicolson</attribution>
+            <para>We are all inclined to judge ourselves by our ideals; others, by their acts.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Pope John Paul II</attribution>
+            <para>Every American needs to know that freedom consists not in doing what we like, but in having the right to do what we ought.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Theodore Roosevelt</attribution>
+            <para>It is not the critic that counts; not the one who points out how the strong man stumbles or how the doer of deeds might have done them better. The credit belongs to the man who is actually in the arena, whose face is marred with sweat and dust and blood; who strived valiantly; who errs and comes short again and again; who knows the great enthusiasm, the great devotions; and spends himself in a worthy cause; who, if he wins, knows the triumph of high achievement, and so, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who know neither victory nor defeat.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>H. G. Rickover</attribution>
+            <para>Those of us who have an objective, a desire to get something done, can not possibly compromise and communicate all day long with people who wallow in bureaucracy, who worship rules and ancient routine.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>W. J. King</attribution>
+            <para>There is always a premium to get things done.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>You are judged by results, not the amount of trivia you can handle.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>H. G. Rickover</attribution>
+            <para>Avoid over-coordination. We have all observed months-long delays caused by an effort to bring all activities into complete agreement with a proposed policy or procedure. While the coordinating machinery is slowly grinding away, the original purpose is often lost, the essence of the proposal is being worn down, as the persons most concerned impatiently await the decision. This process has been aptly called "coordinating to death."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Jeanne Marie Laskas</attribution>
+            <para>Friends always try to steer friends onto the easy road, but people just take the road they're on.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Harold S. Kushner</attribution>
+            <para>Every adult, no matter how unfortunate a childhood he had or how habit-ridden he may be, is free to make choices about his life. To say of Hitler, to say of the criminal, that he did not choose to be bad but was a victim of his upbringing is to make all morality, all discussion of right and wrong, impossible. It leaves unanswered the question of why people in similar circumstances did not all become Hitlers. But worse, to say "It's not his fault; he was not free to choose" is to rob a person of his humanity, and reduce him to the level of an animal who is bound by instinct.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>excerpted from Green Mars, Kim Stanley Robinson</attribution>
+            <para>We have been liquidating our natural capital as if it were disposable income, and are nearing depletion of certain capital stocks, like oil, wood, soil, metals, fresh water, fish, and animals. . . This makes continued economic expansion difficult. But we have to continue; expansion is a fundamental tenet of economics. . . So everything is expanding. But it can't happen in contradiction to the law of matter-energy. No matter how efficient your throughput is, you can't get an output larger than the input.</para>
+            <para>
+            </para>
+            <para>Now, man-made capital and natural capital are not substitutable. This is obvious, but since most economists still say they are, it has to be insisted on. Put simply, you can't substitute more sawmills for fewer forests. If you're building a house, you can juggle the number of power saws or carpenters you have, which means they're substitutable, but you can't build it with half the amount of lumber, no matter how many saws for carpenters you have. Try it and you have a house of air. And that's where we live now.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Schopenhauer</attribution>
+            <para>A man can do what he wants, but not want what he wants.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Curley</attribution>
+            <para>The meaning of life is this: one thing. [What that thing is, is for you to discover.]</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Einstein</attribution>
+            <para>Joy in looking and comprehending is nature's most beautiful gift.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Henry Van Dyke</attribution>
+            <para>Self is the only prison that can ever bind the soul.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Haplo, from The Death Gate Cycle</attribution>
+            <para>I remember hearing somewhere that all lower forms of animals can swim enough to keep themselves afloat. It is man who thinks and panics and drowns.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Bene Gesserit saying from Dune</attribution>
+            <para>Do not count a human dead until you have seen the body. And even then you can make a mistake.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Muad'Dib from Dune</attribution>
+            <para>You can not back into the future.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Muad'Dib from Dune</attribution>
+            <para>Deep in the human unconsciousness is a pervasive need for a logical universe that makes sense. But the real universe is always one step ahead of logic.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Pardot Kynes from Dune</attribution>
+            <para>Beyond a critical point within a finite space, freedom diminishes as numbers increase. This is as true of humans in the finite space of a planetary ecosystem as it is of gas molecules in a sealed flask. The human question is not how many can possibly survive within the system, but what kind of existence is possible for those who do survive.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>H. G. Rickover</attribution>
+            <para>To doubt one's own principles is the mark of a civilized man. Don't defend past action; what is right today may be wrong tomorrow. Don't be consistent; consistency is the refuge of the fool.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Theodore Roosevelt</attribution>
+            <para>The best executive is one who has sense enough to pick good men to do what he wants done, and self-restraint to keep from meddling with them while they do it.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Beverly Sills</attribution>
+            <para>You may be disappointed if you fail, but you are doomed if you don't try.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Bits &amp; Pieces</attribution>
+            <para>How much we enjoy what we have is more important that how much we have. Life is full of people who have more than they know what to do with, but cannot be content. It is the capacity to enjoy life that brings contentment.</para>
+        </blockquote>
+        <blockquote>
+            <attribution />
+            <para>People who stand still may avoid stubbing their toes, but they won't make much progress.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Muad'dib from Dune Messiah</attribution>
+            <para>Empires do not suffer emptiness of purpose at the time of their creation. It is when they have become established that aims are lost and replaced by vague ritual.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Hayt, from Dune Messiah</attribution>
+            <para>To endure oneself may be the hardest task in the universe.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From The Death Gate Cycle</attribution>
+            <para>Iridal: But what is this evil? What do I see?</para>
+            <para>Haplo: What we all must see, eventually, if we have the courage to look into the darkness, ourselves.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Alfred, from The Death Gate Cycle</attribution>
+            <para>For each of us who have turned a blind eye to prejudice, hatred, intolerance . . . it is our fault.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Comedian on the Howard Stern show</attribution>
+            <para>I haven't lit my balls on fire in over a year!!</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From Flame &amp; Shadow, Sara Teasdale</attribution>
+            <para>There will come soft rains and the smell of the ground,</para>
+            <para>And swallows circling with their shimmering sound;</para>
+            <para>
+            </para>
+            <para>And frogs in the pools singing at night,</para>
+            <para>And wild plum trees in tremulous white;</para>
+            <para>
+            </para>
+            <para>Robins will wear their feathery fire,</para>
+            <para>Whistling their whims on a low fence-wire;</para>
+            <para>
+            </para>
+            <para>And not one will know of the war, not one</para>
+            <para>Will care at last when it is done.</para>
+            <para>
+            </para>
+            <para>Not one would mind, neither bird nor tree</para>
+            <para>If mankind perished utterly;</para>
+            <para>
+            </para>
+            <para>And Spring herself, when she woke at dawn</para>
+            <para>Would scarcely know that we were gone.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From Dune Messiah</attribution>
+            <para>But power deluded those who used it. One tended to believe power could overcome any barrier . . . even their own ignorance.</para>
+            <para>
+            </para>
+            <para>Law filters chaos and what drips through? Serenity? Law - our highest ideal and our basest nature. Don't look too closely at the law. Do, and you'll find the rationalizations, the legal casuistry, the precedents of convenience. You'll find the serenity, which is just another word for death.</para>
+            <para>
+            </para>
+            <para>The convoluted wording of legalisms grew up around the necessity to hide from ourselves the violence we intend toward each other. Between depriving a man of one hour from his life and depriving him of his life there is only a difference in degree. You have done violence to him, consumed his energy. Elaborate euphemisms may conceal your intent to kill, but behind any use of power over another the ultimate assumption remains: "I feed on your energy."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Zen Buddhism</attribution>
+            <para>Difficult, difficult, difficult . . . easy, easy, easy . . . neither difficult nor easy.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Barbara Ehenreich</attribution>
+            <para>It's not true that anything worth doing is worth doing well. The truth is, many things are worth doing only in the most slovenly, half-hearted fashion possible.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Marilyn Mason</attribution>
+            <para>Apples grow on apple trees.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Henry Ford</attribution>
+            <para>Whether you believe you can, or believe you can't, you're absolutely right.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Hiro Tanaka</attribution>
+            <para>The first thing to do is realize that you really have options.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Kim Stanley Robinson, Blue Mars</attribution>
+            <para>This was not logical, but it didn't matter; history was strange, and people were not rational systems.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Kim Stanley Robinson, Blue Mars</attribution>
+            <para>Maya: Who am I going to hate now?</para>
+            <para>Michael: Well, I'm sure you'll think of someone.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Excerpt from Speaker for the Dead</attribution>
+            <para>I think we've taken a step toward something truly magnificent. But humankind almost never forgives greatness.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Laleleland, from The Spoils of War</attribution>
+            <para>The propoundment of hasty absolutes are the conclusions of the insecure.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Excerpt from Speaker for the Dead</attribution>
+            <para>. . . it is hard to learn when your own mouth is always open.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From The Damned</attribution>
+            <para>Humans had always excelled when presented with uncomplicated, easy-to-comprehend options. Us against Them eliminated the need for irritating introspection.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Pipo - from Xenocide</attribution>
+            <para>In my life, I have found two things of priceless worth: learning and loving. Nothing else - not fame, not power, not achievement for its own sake - can possibly have the same lasting value.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Any general, any army, any time (from Hit or Myth)</attribution>
+            <para>It's always easier to destroy than create.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Excerpt from Xenocide</attribution>
+            <para>To stop a human being from doing something, you must find a way to make the person stop wanting to do it.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From Myth'nomers and Im'pervections.</attribution>
+            <para>You've been talking right and wrong as if they were absolutes. According to you, things are either right or wrong . . . period. Well, my young friend, life is not that simple. It's possible for you, or anyone else to not be right and still not be wrong, just as you can be right from a business standpoint, but be wrong from a humanitarian standpoint. The world is complex, and people are a hopeless tangle of contradictions. Conditions changes not only from situation to situation and person to person, but form moment to moment. Trying to kid yourself that there's some master key to right and wrong is ridiculous . . . worse than that, it's dangerous, because you'll always end up feeling incompetent and inadequate when it eludes you.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From a bumper sticker</attribution>
+            <para>Where am I going? And why am I in this hand basket?</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From Jurassic Park</attribution>
+            <para>Hammond: All the experts believe our planet is in trouble</para>
+            <para>Malcom: Let me tell you about our planet. Our planet is four and a half billion years old. There has been life on it for nearly that long. Great dynasties of creatures arising, flourishing, dying away. All this happening against a background of continuous and violent upheaval, mountain ranges thrust up and eroded away, cometary impacts, volcanic eruptions, oceans rising and falling, whole continents moving . . . Endless and violent change . . . even today, the greatest geographical feature on the planet comes from two continents colliding, buckling to make the Himalayan mountain range over millions of years. The planet has survived everything, in its time. It will certainly survive us.</para>
+            <para>H: Well if the ozone layer gets thinner -</para>
+            <para>M: There will be more ultraviolet radiation reaching the surface. So what?</para>
+            <para>H: Well, it'll cause skin cancer.</para>
+            <para>M: Ultraviolet radiation is good for life. It's powerful energy. I promotes mutation, change. Many forms of life will thrive with more UV radiation.</para>
+            <para>H: And may others will die out.</para>
+            <para>M: You think this is the first time this has happened? Don't you know about oxygen? Oxygen is basically a metabolic poison. It's a corrosive gas, like flourine, which is used to etch glass. And when oxygen was first produced as a waste product by certain plant cells - say about three billion years ago - it created a crisis for all other life on the planet. Those plant cells were polluting the environment with a deadly poison. They were exhaling a lethal gas, and building up the concentration. Earth had an atmosphere of pure poison. Incompatible with life.</para>
+            <para>H: So what's your point? That modern pollutants will be incorporated, too?</para>
+            <para>M: No, my point is that life on earth can take care of itself. To the earth, a hundred years is nothing. A million years is nothing. This planet lives and breathes on a much vaster scale. We can't imagine its slow and powerful rhythms, and we haven't got the humility to try. We have been residents here for the blink of an eye. If we are gone tomorrow, the earth will not miss us.</para>
+            <para>H: So, what are you saying, we shouldn't care about the environment?</para>
+            <para>M: Of course not. Let's be clear. The planet is not in jeopardy. We are. We haven't got the power to destroy the planet - or save it. But we might have the power to save ourselves.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Angua from Feet of Clay</attribution>
+            <para>. . . Basically, its how much beer you supped last night, how strong the curry was you had afterwards, and where you were sick. Just think egotesticle.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Vimes, from Feet of Clay</attribution>
+            <para>Just because someone's a member of an ethnic minority doesn't mean they're not a nasty, small-minded, little jerk.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From Maskerade</attribution>
+            <para>Mrs. Plinge: "They'll put him in prison!"</para>
+            <para>Nanny Ogg: "If he done them murders, Esme won't let that happen."</para>
+            <para>Something sank into Mrs. Plinge's not very alert mind. "What do you mean, she won't let that happen?"</para>
+            <para>Nanny Ogg: "I mean that if you throw yourself on Esme's mercy, you better be damn sure you deserve to bounce."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From Interesting Times</attribution>
+            <para>There is a curse. They say, "May you live in interesting times."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From Interesting Times</attribution>
+            <para>Fate always wins. Most of the gods throw dice, but Fate plays chess, and you don't find out until too late that he's been using two queens all along.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From Interesting Times</attribution>
+            <para>The Game had begun.</para>
+            <para>The Lady opened her hand.</para>
+            <para>There was something black and yellow on her palm. She blew on it, and it unfolded its wings.</para>
+            <para>It was a butterfly.</para>
+            <para>Fate always wins.</para>
+            <para>At least, when people stick to the rules.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From Interesting Times</attribution>
+            <para>"Them? I didn't know they were noble," said Io.</para>
+            <para>There're all very rich and have had millions of people butchered or tortured to death merely for reasons of expediency or pride," said the Lady.</para>
+            <para>The watching gods nodded solemly. That was certainly noble behavior</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From Interesting Times</attribution>
+            <para>A less direct Archchancellor would have wandered around looking for everyone. His policy was to find one person and make their life difficult until everything happened the way he wanted it to.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From Interesting Times</attribution>
+            <para>Wizards have always know that the act of observation changed the thing that was observed, and sometimes forgot that it also changed the observer, too.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From Feet of Clay</attribution>
+            <para>Drofl: I Smashed The Treadmill But The Golems Repaired It? Why? And I Let The Animals Go But They Just Milled Around Stupidly. Some Of Them Even Went Back To The Slaughter Pens. Why? Is It Frightening To Be Free?</para>
+            <para>Vimes: You said it.</para>
+            <para>D: You Say To People "Throuw Off Your Chains" And They Make New Chains For Themselves?</para>
+            <para>V: Seems to be a major human activity, yes.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>From Feet of Clay</attribution>
+            <para>Mob: We Want It Smashed! Blasphemy! We're Not Even Listening To You! You're Not Even Alive!</para>
+            <para>Dorfl: This is fundamentally true.</para>
+            <para>M: See? He admits it!</para>
+            <para>D: I Suggest You Take Me And Smash Me And Grind The Bits Into Fragments And Pound The Fragments Into Power And Mill Them Again To The Finest Dust There Can Be, And I Believe You Will Not Find A Single Atom Of Life.</para>
+            <para>M: True! Let's do it!</para>
+            <para>D: However, In Order To Test This Fully, One Of You Must Volunteer To Undergo The Same Process.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Steven Levy</attribution>
+            <para>After grabbing hold of the most crucial aspect of the software business, the operating system, Microsoft has continually exploited that advantage to foist crummy, bloated products on users. Because Microsoft controls the desktop, and the desktop is the access point to the Internet, as the Net grows, Microsoft may eventually rule the world, which will become a damp, sunless domain.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Theodore Roosevelt</attribution>
+            <para>I think there is only one quality worse than hardness of heart, and that is softness of head.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>J. A. Petit-Senn</attribution>
+            <para>A good conscience never costs as much as it is worth.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Thomas O'Shaughnessy</attribution>
+            <para>No man is free until he conquers himself.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Rodin</attribution>
+            <para>Nothing is a waste of time if you use the experience wisely.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>John Kenneth Galbraith</attribution>
+            <para>Faced with the choice between changing one's mind and proving there is no need to do so, almost everyone gets busy on the proof.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from Hogfather</attribution>
+            <para>Education had been easy. Learning things had been harder.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from Hogfather</attribution>
+            <para>After all, if everyone was to blame, then it was no one's actual fault . That's what collective responsibility meant, after all. It was more like bad luck or something.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from Hogfather</attribution>
+            <para>MERE ACCUMULATION OF OBSERVATIONAL EVIDENCE IS NOT PROOF</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from The Truth</attribution>
+            <para>The difference between the easy way and the hard way is that the hard way works</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from The Truth</attribution>
+            <para>There are, it has been said, two types of people in the world. There are those who, when presented with a glass that is exactly half full, say: this glass is half full. And then there at those who say: this glass is half empty</para>
+            <para>The world *belongs*, however, to those who can look at the glass and say: What's up with this glass? Excuse me? *Excuse me?* *This* is my glass? I don't *think* so. *My* glass was full! *And* it was a bigger glass! Who's been pinching my beer?</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from The Truth</attribution>
+            <para>"Do you think I have others?" said Lord Ventinari. "My motives, as ever, are entirely transparent."</para>
+            <para>Hughnon reflected that "entirely transparent" meant either that you could see right through them or that you couldn't see them at all.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from The Truth</attribution>
+            <para>So William deWorde told the truth, out of cosmic self defense. He'd found the hard truth less hard than an easy lie.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from The Truth</attribution>
+            <para>He's going to have to learn the hard way. And the trouble with the hard way is, you only get one lesson</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from The Truth</attribution>
+            <para>Sacharissa looked a little disappointed. She'd been a respectable young woman for some time. In certain people, that means there's a lot of dammed-up disreputability just waiting to burst out.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from The Truth</attribution>
+            <para>"It's political, sir. Apparently he wants to return to the values and traditions that made the city great, sir."</para>
+            <para>"Does he *know* what those values and traditions *were*?" said Vimes, aghast.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from The Truth</attribution>
+            <para>"in return, however," said the Patrician, "I must ask you not to upset Commander Vimes." He gave a little cough. "More than necessary."</para>
+            <para>"I'm sure we can pull together, sir."</para>
+            <para>Lord Ventinari raised his eyebrows. "Oh, I hope not, I really do hope not. Pulling together is the aim of despotism and tyranny. Free men pull in all kinds of directions." He smiled. "It's the only way to make progress. That, and, of course, moving with the times. Good day to you."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from The Last Hero</attribution>
+            <para>Lord Ventinari found it best to set up a committee system. Most of the ambassadors from other countries had arrived at the university, and more heads of the Guilds were pouring in, and every single one of them wanted to be involved in the decision-making process without necessarily going through the intelligence-using process first.</para>
+            <para>About seven committees, he considered, should be about right. And when, ten minutes later, the first sub-committee had miraculously budded off, he took aside a few chosen people into a small room, set up the Miscellaneous Committee, and locked the door.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from The Last Hero</attribution>
+            <para>Finally, [the party] saw the woman. She was attractive or, at least, had been conventionally so perhaps thirty years ago. Now she looked like the teacher you wished you'd had in your first year at school, the one with the understanding approach to life's little accidents, such as a shoe full of wee.</para>
+            <para>She had a blanket around her to keep out the cold. She was knitting. Stuck in the snow beside her was the largest sword the robbers had ever seen.</para>
+            <para>*Intelligent* robbers would have started to count up the inconsistencies.</para>
+            <para>These, however, were the other kind, the kind for whom evolution was *invented*.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from The Last Hero</attribution>
+            <para>'Well spake,' said Cohen. 'I like a man I can't trust. You know where you stand with an untrustworthy man. It's the ones you ain't never sure about who give you grief.'</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from The Last Hero</attribution>
+            <para>It occurred to him that when you'd had everything, all that was left was nothing.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from The Fifth Elephant</attribution>
+            <para>"... Now you asked me to construct some more ciphers for you. I am sorry, my lord, I must have misunderstood your requirements. What was wrong with the first ones I did?"</para>
+            <para>Vetinari sighed. "I am afraid they were unbreakable, Leonard."</para>
+            <para>"But surely -"</para>
+            <para>"It is hard to explain," said Vetinari, aware that what to him were the lucid waters of politics was so much mud to Leonard. "These new ones you have are . . . merely devilishly difficult?"</para>
+            <para>"You specified *fiendishly*, sir," said Leonard, looking worried.</para>
+            <para>"Oh, yes."</para>
+            <para>"There does not appear to be a common standard for fiends, my lord, but I did some research in the more accessible occult texts and I believe these ciphers will be considered 'difficult' by more than ninety-six percent of fiends.</para>
+            <para>"Good."</para>
+            <para>"They may perhaps border on the diabolically difficult in places - "</para>
+            <para>"That is not a problem. I shall use them forthwith."</para>
+            <para>Leonard still seeded to have something on his mind.</para>
+            <para>"It would be easy to make them archdemonically diff - "</para>
+            <para>"But these will suffice, Leonard."</para>
+            <para>"My lord," Leonard almost wailed, "I really cannot guarantee that sufficiently clever people will be unable to read your messages!"</para>
+            <para>"Good."</para>
+            <para>"But, my lord, they will know what you are thinking!"</para>
+            <para>Vetinari patted him on the shoulder.</para>
+            <para>"No, Leonard. They will merely know what is in my messages."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from Night Watch</attribution>
+            <para>Ridcully gave him the slow blank stare used by those with acute uptake-grasping deficiency.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Vimes from Night Watch by Terry Pratchett</attribution>
+            <para>The whole of life is a learning process, Lance Constable.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from Night Watch</attribution>
+            <para>What would have intrigued a watcher who knew the ways of Ankh-Morpork's Guild of Assassins was how *invisible* this one was. When he moved, you saw movement; when he stopped, he wasn't there. Magic would have been suspected and, in an oblique way, the watcher would have been right. Ninety percent of most magic merely consists of knowing one extra fact.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from Night Watch</attribution>
+            <para>Havelock sighed, but inwardly, because he respected his aunt. He just wished she was a bit more sensible about cats. He felt instinctively that if you were going to fondle a cat while discussing matters of intrigue, then it should be a long-haired white one. It shouldn't' be an elderly street tom with irregular bouts of flatulence.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from Night Watch</attribution>
+            <para>One of the hardest lessons of young Sam's life had been finding out that the people in charge weren't in charge. It had been finding out that governments were not, on the whole, staffed by people who had a grip, and that plans were what people made instead of thinking.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett from Night Watch</attribution>
+            <para>People on the side of The People always ended up disappointed, in any case. They found that The People tended not to be grateful or appreciative or forward-thinking or obedient. The People tended to be small-minded and conservative and not very clever and were even distrustful of cleverness. And so, the children of the revolution were faced with the age-old problem: it wasn't that you had the wrong kind of government, which was obvious, but that you had the wrong kind of people.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Rock Me Gently by Erasure</attribution>
+            <para>And there's more to life</para>
+            <para>Than thrills &amp; spills &amp; dollar bills</para>
+            <para>We'll have to get through</para>
+            <para>Some way &amp; some how</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Lord Jeffery</attribution>
+            <para>A good name, like good will, is got by many actions and lost by one.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett, Going Postal</attribution>
+            <para>If he'd been a hero, he would have taken the opportunity to say, "That's what *I* call sorted." Since he wasn't, he threw up. A body doesn't work properly when significant bits are not sharing the same space-time frame as the rest of it, but it does look more colorful. The trade-off is not to its advantage.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett, Going Postal</attribution>
+            <para>It was the thrill not of the chase but of the standing still, of remaining calm, composed, and genuine that, for just long enough, you could fool the world and spin it on your finger. These were the moments he lived for, when he was *really* alive, and his thoughts flowed like quicksilver, and the very air sparkled. Later, that feeling would present its bill. For now, he flew.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett, Going Postal</attribution>
+            <para>"You can't do that!"</para>
+            <para>"Can I not?" said Ventinari. "I am a tyrant. It's what we do."</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett, Going Postal</attribution>
+            <para>But in my experience, the best way to get something done is to give it to someone who is busy.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett, Going Postal</attribution>
+            <para>Sometimes the truth is arrived at by adding all the little lies together and deducting them from the totality of what is known.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>Terry Pratchett, Going Postal</attribution>
+            <para>They'd saved the city with gold more easily, at that point, than any hero could have managed with steel. But, in truth, it had not exactly been gold, or even the promise of gold, but more like the fantasy of gold, the fairy dream that the gold is there, at the end of the rainbow, and will continue to be there forever - provided, naturally, that you don't go and look.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>R. A. Salvatore</attribution>
+            <para>...it was he who initiated our battle and he certainly would have killed me if I had not proven the stronger. I can justify my actions on that fated day, but never will I be comfortable with their necessity. There should have been a better way than the sword.</para>
+        </blockquote>
+        <blockquote>
+            <attribution>R. A. Salvatore, The Legacy</attribution>
+            <para>I now make a new vow, one weighted in experience and proclaimed with my eyes open: I will not raise my scimitars except in defense: in defense of my principles, of my life, or of others who cannot defend themselves. I will not do battle to further the causes of false prophets, to further the treasures of kings, or to avenge my own injured pride.</para>
+            <para>And to the many gold-wealthy mercenaries, religious and secular, who would look upon such a vow as unrealistic, impractical, even ridiculous, I cross my arms over my chest and declare with conviction: I am the richer by far.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Bram Stoker, Dracula</attribution>
+          <para>You are clever man, friend John: you reason well, and your wit is bold; but you are too prejudiced.  You do not let your eyes see nor your eyes hear, and that which is outside your daily life is not of accord to you.  Do you not think that there are things which you cannot understand, and yet which are; that some people see thing that others cannot?</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Thud!</attribution>
+          <para>He ought to be springing into action.  Once upon a time he would have done [just that].  But now, perhaps he should take these precious moments to work out what he should <emphasis>do</emphasis> before he sprang.</para>
+          <para>Vimes tried to think.  Don't think of it all as one big bucket of snakes.  Think of it as one snake at a time.  Try to sort it out.  Now, what needs ot be done first?</para>
+          <para>Everything.</para>
+          <para>All right, try a different approach.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Thud!</attribution>
+          <para>When people are trying to kill you, it meas you're doing something right.  It was a rule Sam had lived by.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Thud!</attribution>
+          <para>And he was not certain, not certain at all, what he'd do if the prisoner gave him any lip or tried to be smart.  Beating people up in little rooms...he knew where that lead.  And if you did it for a good reason, you'd do it for a bad one.  You couldn't say, "we're the good guys" and do bad-guy things.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Thud!</attribution>
+          <para>"What kind of human creates his own watchman?"</para>
+          <para>"One who fears the dark."</para>
+          <para>"And so he should," said the entity, with satisfaction.</para>
+          <para>"Indeed.  But I think you misunderstand.  I am not here to keep darkness out.  I'm here to keep it in."</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Thud!</attribution>
+          <para>And yet we say this.  Here, in this cave at the end of the world, peace is made between troll and dwarf, and we will march beyond the hand of Death together.  For the enemy is not Troll, nor is it Dwarf, but it is the baleful, the malign, the cowardly, the vessels of hatred, those who do a bad thing and call it good."</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Thief of Time</attribution>
+          <para>For something to exist, it has to have a position in space and time.</para>
+          <para>And this explains why nine-tenths of the mass of the universe is unaccounted for.</para>
+          <para>Nine-tenths of the mass of the universe is the knowledge of the position and direction of everything in the other tenth.  Every atom has its biography, ever star its file, every chemical exchange its equivalent of the inspector with a clipboard.  It is unaccounted for because it is doing the accounting for the rest of it, and you can not see the back of your own head (except in very small universes).</para>
+          <para>Nine-tenths of the universe, in fact, is the paperwork.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Thief of Time</attribution>
+          <para>Suppose an emperor was persuaded to wear a new suit of clothes whose material was so fine that, to the common eye, the clothes weren't there.  And suppose a little boy pointed out this fact in a loud, clear voice....</para>
+          <para>Then you have The Story of The Emperor Who Had No Clothes.</para>
+          <para>But if you knew a little be more, it would be The Story of The Boy Who Got A Well Deserved Thrashing From His Dad For Being Rude To Royalty, And Was Locked Up.</para>
+          <para>Or The Story Of The Whole Crowd That Was Rounded Up By The Guards And Told "This Didn't Happen, Okay?  Does Anyone Want To Argue?"</para>
+          <para>It all depends on how much you know.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Thief of Time</attribution>
+          <para>And they believed that for a thing to exist it had to have a position in time and space.  Humanity had arrived as a nasty shock.  Humanity practically <emphasis>was</emphasis> things that didn't have a position in time and space, such as imagination, pity, hope, history, and belief.  Take those away and all you had was an ape that fell out of trees alot.</para>
+          <para>Intelligent life was, therefore, an anomaly,  It made the filing untidy.  The Auditors <emphasis>hated</emphasis> things like that.  Periodically, they tried to tidy things up a little.</para>
+          <para></para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Thief of Time</attribution>
+          <para>It had been <emphasis>very</emphasis> good.  That was why the guild had been so understanding. Genius is always allowed some leeway, once the hammer has been pried from its hands and the blood has been cleaned up. </para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Thief of Time</attribution>
+          <para>Miss Susan held up the cardboard clock and said, "Who can tell me what this is?"</para>
+          <para>A forest of hands shot up.</para>
+          <para>"Yes, Miranda?"</para>
+          <para>"It's a clock, miss."</para>
+          <para>"Nearly right, " she said, "Yes, Samuel?"</para>
+          <para>It's all cardboard made to <emphasis>look</emphasis> like a clock," said the boy.</para>
+          <para>"Correct.  Always see what's really there."</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Thief of Time</attribution>
+          <para>"Bogeymen, Susan?" said Miss Froutt</para>
+          <para>"What imagination children have," said Miss Susan with a straight face.</para>
+          <para>"Are you introducing the children to the occult?" said Madam Froutt suspiciously.  This sort of thing caused a lot of trouble with parents, she was well aware.</para>
+          <para>"Oh yes."</para>
+          <para>"<emphasis>What?</emphasis> Why?</para>
+          <para>"So it doesn't come as a shock," said Miss Susan calmly.</para>
+          <para>"But Mrs. Robertson told me that her Emma was going around the house looking for monsters in the cupboards!  And up until now she's always been afraid of them!"</para>
+          <para>"Did she have a stick?"</para>
+          <para>She'd got her father's sword!"</para>
+          <para>"Good for her."</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Thief of Time</attribution>
+          <para>Of course someone would be that stupid.  Some humans would do anything to see if it was possible to do it.  If you put a large switch in some cave somewhere, with a sign on it saying, "End-of-the-World Switch. PLEASE DO NOT TOUCH," the paint wouldn't even have time to dry.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Thief of Time</attribution>
+          <para>You had to hand it to human beings.  They had one of the strangest powers in the universe.  Even her grandfather had remarked upon it.  No other species anywhere in the world has invented <emphasis>boredom</emphasis>.  Perhaps it was boredom, not intelligence, that had propelled them up the evolutionary ladder.  The ability to look at the universe and think "oh, same as yesterday, how dull.  I wonder what  happens if I bang this rock on that head?"</para>
+          <para>And along with this had come the contrary power, to make things <emphasis>normal</emphasis>.  The world changed mightily, and within a few days humans considered it <emphasis>normal</emphasis>.  The had the most amazing ability to shut out and forget what didn't fit.  They told themselves little stories to explain away the inexplicable, to make things <emphasis>normal</emphasis>.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Thief of Time</attribution>
+          <para>When you look in to the abyss, it's not supposed to wave back.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>R. A Heinlein, The Moon is a Harsh Mistress</attribution>
+          <para>My point is that one person is responsible. Always. If H-bombs exist—and they do—some man controls them. In terms of morals there is no such thing as a ‘state.’ Just men. Individuals. Each responsible for his own acts.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Larry Niven</attribution>
+          <para>There is no cause so right that one cannot find a fool following it.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Unknown, but often attributed to Mark Twain</attribution>
+          <para>Censorship is like telling a man he can't have steak because a baby can't chew it.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Arthur C. Clarke</attribution>
+          <para>The only way of discovering the limits of the possible is to venture a little way past them into the impossible.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Making Money</attribution>
+          <para>As you indicate, this may well have been a case where chilly logic should have been replaced by the common sense of, perhaps, the average chicken.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Making Money</attribution>
+          <para>What is a coin compared to the hand that holds it?</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Francis Quarles</attribution>
+          <para>Beware of him that is slow to anger; for when it is long coming, it is the stronger when it comes, and the longer kept. Abused patience turns to fury.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Unseen Academicals</attribution>
+          <para>You're not a zombie, are you?  I know they do their best, and none of us can help how we die, but I'm not having all that trouble again.  Anyone might get their finger in the soup, but rolling around in the bottom of the bowl?  That's not right.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Unseen Academicals</attribution>
+          <para>He could be quite charming when the frantically oscillating mood swing took him; that was the best time to run.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Unseen Academicals</attribution>
+          <para>And I really don't care, Glenda thought.  I don't care.  It was like drawing a sword.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Unseen Academicals</attribution>
+          <para>A lot hinges on the fact that, in most circumstances, people are not alowed to hit you with a mallet.  They put up all kinds of signs of visible and invisible signs that say, "Do not do this" in the hope that it'll work, but if it doesn't, then they shrug, because there is, really, no real mallet at all.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Unseen Academicals</attribution>
+          <para>'Why did you tell me not to open the book, Ladyship?'</para>
+          <para>'Because I wanted you to read it,' said her voice, 'You had to find the truth for yourself.  That is how we all find the truth.'</para>
+          <para>'And if the truth is terrible?'</para>
+          <para>'I think you know the anwer to that one, Nutt,' said the voice of Ladyship.</para>
+          <para>'The answer is that, terrible or not, it is still the truth,' said Nutt.</para>
+          <para>'And then?' said her voice, like a teacher encouraging a promising student.</para>
+          <para>'And then the truth can be changed.'</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Diggers</attribution>
+          <para>Masklin clenched his fists.  "I'll never be well prepared!  I was born in a hole, Thing!  A muddy hole in the ground!  How can I ever be well prepared for anything?  That's what being alive <emphasis>is</emphasis>!  It's being badly prepared for everything!  Because you only get one chance, Thing!  You only get one chance and then you die and they don't let you go round again after you've got the hang of it!  Do you understand, Thing?  So we'll try it <emphasis>now</emphasis>!  I <emphasis>order</emphasis> you to help!  You're a machine and you must do what you're told!</para>
+          <para>The light formed a spiral</para>
+          <para><emphasis>"You're learning fast,"</emphasis> said the Thing.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>David Weber (A Mighty Fortress)</attribution>
+          <para>Men had a tendancy to decide God ought to be clever enough to agree with them...and to ignore anything He might have to say on a subject if it <emphasis>didn't</emphasis> agree with them.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Stephen R. Covey</attribution>
+          <para>While we are free to choose our actions, we are not free to choose the consequences of our actions.</para>
+         </blockquote>
+         <blockquote>
+          <attribution>Terry Pratchett, Snuff</attribution>
+          <para>... Commander Vimes didn't like the phrase, "The innocent have nothing to fear," believing the innocent had everything to fear, mostly from the guilty, but in the longer term even more from those who say things like, "The innocent have nothing to fear."
+          </para>
+        </blockquote>
+         <blockquote>
+          <attribution>Terry Pratchett, Snuff</attribution>
+          <para>Indeed, if a poor man will spend a year in prison for stealing out of hunger, how high would the gallows need to be to hang the rich man who breaks the law out of greed?"</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Snuff</attribution>
+          <para>To be in the countryside you had to be permanently on the defensive; quite the opposite of the city.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Ajahn Chah</attribution>
+          <para>The glass is already broken.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Sermon at Floris UMC</attribution>
+          <para>Keep eternity before the children.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Raising Steam</attribution>
+          <para>And as the sounds of the goblin scrabbling through the hole faded away, Albrecht thought, I would <emphasis>never</emphasis> have done that before.  What a fool I was.</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Wyrd Sisters</attribution>
+          <para>"...as you progress in the Craft, you'll learn there is another rule.  Esme's obeyed it all her life."</para>
+          <para>"And what's that?"</para>
+          <para>"When you break rules, break 'em good and hard."</para>
+        </blockquote>
+        <blockquote>
+          <attribution>Terry Pratchett, Wyrd Sisters</attribution>
+          <para>"This is more ceremonial."</para>
+          <para>"You mean unreal."</para>
+          <para>"Yes," said Granny. "But much more important."</para>
+        </blockquote>
+    </chapter>
+</book>

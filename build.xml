@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<project name="MRALD documentation" default="my-format" basedir=".">
+  <property file="build.properties" />
+
+<!-- these should be overwritten in build.properties for your own setup -->
+  <!-- docbook location: Everything taken relative to this for docbook stuff -->
+  <property name="docbookHome" value="/usr/local/share/docbook-xsl-1.70.1"/>
+
+  <property name="docbook.dtd.location" value="http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" />
+  <property name="build.dir" value="build" />
+
+  <!-- Main stylesheets -->
+  <property name="docbook.xsl" value="${docbookHome}/xsl"/>
+  <!-- Stylesheet for monolithic HTML file -->
+  <property name="mono.stylesheet" value="${docbook.xsl}/html/docbook.xsl"/>
+  <!-- Stylesheet for chunked HTML files -->
+  <property name="chunk.stylesheet" value="${docbook.xsl}/html/chunk.xsl"/>
+
+  <target name="init">
+  </target>
+
+  <target name="clean">
+    <delete dir="${build.dir}" />
+  </target>
+
+  <target name="my-format" depends="init, set-proxy">
+    <property name="build" value="${build.dir}" />
+   <!--  <xslt style="ircbot.xsl" destdir="${build.dir}" excludes="build*" includes="**/*.xml"></xslt> -->
+    <xslt style="quotes.xsl" destdir="${build.dir}" excludes="build*" includes="**/*.xml"></xslt>
+  </target>
+
+
+  <target name="gen-mono-doc" depends="init, set-proxy">
+    <property name="build" value="${build.dir}" />
+    <xslt style="${mono.stylesheet}" destdir="${build.dir}" excludes="build*" includes="*.xml">
+      <xmlcatalog>
+        <dtd publicId="-//OASIS//DTD DocBook XML V4.1.2//EN" location="${docbook.dtd.location}" />
+      </xmlcatalog>
+    </xslt>
+  </target>
+
+  <target name="set-proxy" if="proxy-host">
+    <setproxy proxyhost="${proxy-host}" proxyport="${proxy-port}"/>
+  </target>
+
+</project>
+
+<!-- :indentSize=2:lineSeparator=\n:tabSize=2: -->
+
+
